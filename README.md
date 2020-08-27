@@ -109,5 +109,5 @@ Leadership; Analytical thinking; Empathy; Conscientiousness; Self-management; Se
 My hobbies:
 
 Arch linux, cisco technology, diving, surfing, motorcycles, German - East European shepherd, chess, travel!
-Some portfolio pictures link:
-https://sites.google.com/view/zubareff
+
+Some portfolio pictures link:https://sites.google.com/view/zubareff
