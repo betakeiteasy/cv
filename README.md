@@ -53,6 +53,7 @@ Creation and maintenance of a global platform 24/7 in Berlin data center colocat
 hardware - 2x cisco asa 5525-x + Blade platform HPE c7000
 
 software - voice&messages system (cisco anyconnect+bria+linux asterisk+linux jabber(ejabberd)) + linux mail system (rouncube(nginx,php-fpm)+postfix(vdomains)+dovecot(lmtp)+postgresql(12,pgadmin4)+spamassassin+amavis+clamav).
+
 Chief Information Officer (CIO)
 
 07.2016 – 04.2019  "Advanced banking technology" (Moscow)
